@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Software Engineer
 --------------------------------------
 
-10+ years of experience in the Software Industry, working as Tech-Leader, Team-Leader, Software Architect and Web/Desktop/Back-End Developer, working most of the time in Banking Solutions for the main banks in Perú. Passionate and interested about working in Back-End development projects.
+10+ years of experience in the Software Industry, working as Tech-Leader, Team-Leader, Software Architect and Web/Desktop/Back-End Developer, working most of the time in Banking Solutions for the main banks in Perú.
 
 * 🌍  I'm based in Lima, Peru
 * ✉️  You can contact me at [poschuler@gmail.com](mailto:poschuler@gmail.com)
