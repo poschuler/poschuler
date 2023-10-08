@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Osorio Schuler
 ===========================================================================================================================================
 
-Software Developer | Software Engineer
+Software Engineer
 --------------------------------------
 
 10+ years of experience in the Software Industry, working as Tech-Leader, Team-Leader, Software Architect and Web/Desktop/Back-End Developer, working most of the time in Banking Solutions for the main banks in Perú. Passionate and interested about working in Back-End development projects.
