@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Osorio Schuler
 ===========================================================================================================================================
 
-Software Engineer
+"Software Engineer & MBA from Peru"
 --------------------------------------
 
-10+ years of experience in the Software Industry, working as Tech-Leader, Team-Leader, Software Architect and Web/Desktop/Back-End Developer, working most of the time in Banking Solutions for the main banks in Perú. Passionate and interested about working in Back-End development projects.
+I work as software developer, tech leader and solutions architect.
 
 * 🌍  I'm based in Lima, Peru
-* 🖥️  See my portfolio at [poschuler.com](http://poschuler.com)
+* 🖥️  See my web site at [poschuler.com](http://poschuler.com)
 * ✉️  You can contact me at [poschuler@gmail.com](mailto:poschuler@gmail.com)
 
 ### Skills
