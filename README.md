@@ -1,10 +1,9 @@
 Hi, My name is Paul Osorio Schuler
 ===========================================================================================================================================
 
-"Software Engineer & MBA from Peru"
+"Full Stack Developer from Peru"
 --------------------------------------
 
-I work as software developer, tech leader and solutions architect.
 
 * 🌍  I'm based in Lima, Peru
 * 🖥️  See my web site at [poschuler.com](http://poschuler.com)
